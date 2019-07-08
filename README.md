@@ -1,6 +1,5 @@
 # Hello, welcome to CRUD_BulletinBoard
-If you hit the proximity sensor cup, you may feel like drinking alcohol together.
-You can use messages with correct drinking and bulletin boards.
+CRUD bulletin board.
 
 ## Demo  
 # 조인
