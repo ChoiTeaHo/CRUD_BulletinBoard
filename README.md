@@ -1,6 +1,8 @@
 # Hello, welcome to CRUD_BulletinBoard
-CRUD bulletin board.
+A simple CRUD bulletin board.  
+I used the MVC2 pattern.  
 
+  
 ## Demo  
 # 조인
 <img width="600" height="500" class="spinner" alt="" src="https://user-images.githubusercontent.com/19817832/60808249-c7d71600-a1c2-11e9-85b0-f6479994959e.gif"/>
